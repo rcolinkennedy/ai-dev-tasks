@@ -1,3 +1,9 @@
+## Archival notice
+
+This repository is kept for **historical / posterity** purposes only. It is **not maintained**, not security-audited, and **not intended for production use**.
+
+---
+
 # 🚀 AI Dev Tasks for Cursor 🤖
 
 Welcome to **AI Dev Tasks**! This repository provides a collection of `.mdc` (Markdown Command) files designed to supercharge your feature development workflow within the [Cursor](https://cursor.sh/) editor. By leveraging these commands with Cursor's AI Agent, you can systematically approach building features, from ideation to implementation, with built-in checkpoints for verification.
